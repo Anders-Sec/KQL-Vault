@@ -16,16 +16,16 @@ General Description of what this repo is about
 ### Threat Hunting
 | Name | Description | Source |
 |------|-------------|--------|
-|      |             |        |
-|      |             |        |
+| [Remote Access Tools](https://raw.githubusercontent.com/Anders-Sec/KQL-Vault/refs/heads/main/Threat%20Hunts/Remote-Access_Tools.md) |Looks for common remote access tools|Defender|
+|[File Sharing Sites](https://raw.githubusercontent.com/Anders-Sec/KQL-Vault/refs/heads/main/Threat%20Hunts/File-Sharing-Sites.md)|Looks for common file sharing sites|Defender|
 |      |             |        |
 
 ### Detection Rules
 | Name | Description | Source |
 |------|-------------|--------|
-| Specula C2 | Detection of the TrustedSec Specula C2 Framework | Defender|
-| Defender Exclusion Modification | Detection of Defender For Endpoint Exclusion Modification |Defender|
-| Suspicious Bulk File Modification  | Detection for Bulk file renaming in a set time window | Defender |
+| [Specula C2](https://github.com/Anders-Sec/KQL-Vault/blob/main/Detection%20Rules/Specula-C2-Detection.md) | Detection of the TrustedSec Specula C2 Framework | Defender|
+| [Defender Exclusion Modification](https://github.com/Anders-Sec/KQL-Vault/blob/main/Detection%20Rules/Defender-Exclusion-Modification.md) | Detection of Defender For Endpoint Exclusion Modification |Defender|
+| [Suspicious Bulk File Modification](https://github.com/Anders-Sec/KQL-Vault/blob/main/Detection%20Rules/Bulk-File-Modification.md)  | Detection for Bulk file renaming in a set time window | Defender |
 
 ---
 > [!WARNING]  
