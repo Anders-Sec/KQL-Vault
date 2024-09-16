@@ -16,8 +16,8 @@ General Description of what this repo is about
 ### Threat Hunting
 | Name | Description | Source |
 |------|-------------|--------|
-| [Remote Access Tools](https://raw.githubusercontent.com/Anders-Sec/KQL-Vault/refs/heads/main/Threat%20Hunts/Remote-Access_Tools.md) |Looks for common remote access tools|Defender|
-|[File Sharing Sites](https://raw.githubusercontent.com/Anders-Sec/KQL-Vault/refs/heads/main/Threat%20Hunts/File-Sharing-Sites.md)|Looks for common file sharing sites|Defender|
+| [Remote Access Tools](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Remote-Access-Tools.md) |Looks for common remote access tools|Defender|
+|[File Sharing Sites](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/File-Sharing-Sites.md)|Looks for common file sharing sites|Defender|
 |      |             |        |
 
 ### Detection Rules
