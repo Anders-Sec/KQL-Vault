@@ -18,7 +18,8 @@ General Description of what this repo is about
 |------|-------------|--------|
 | [Remote Access Tools](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Remote-Access-Tools.md) |Looks for common remote access tools|Defender|
 |[File Sharing Sites](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/File-Sharing-Sites.md)|Looks for common file sharing sites|Defender|
-|      |             |        |
+|[IOCs](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/IOC-Hunt.md)|Checks for IOCs across Defender tables|Defender|
+|[DC Usage](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/DC-Usage-Hunt.md)|Shows DC usage metrics|Defender|
 
 ### Detection Rules
 | Name | Description | Source |
