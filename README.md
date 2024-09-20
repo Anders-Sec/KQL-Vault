@@ -10,9 +10,9 @@
                                                                     
                                                   
 ```
-General Description of what this repo is about
+This repo is a collection of my most used KQL queries for both Threat Hunting as well as Detection Rules. 
 
-# Sections
+# KQL Vault:
 ### Threat Hunting
 | Name | Description | Source |
 |------|-------------|--------|
@@ -21,6 +21,7 @@ General Description of what this repo is about
 |[IOCs](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/IOC-Hunt.md)|Checks for IOCs across Defender tables|Defender|
 |[DC Usage](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/DC-Usage-Hunt.md)|Shows DC usage metrics|Defender|
 |[Emojis](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Emoji-Hunt.md)|Looks for Emojis in Emails and Command Lines|Defender|
+|[Duplicate MFA](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Duplicate-MFA-Hunt.md)|Looks for duplicate SMS numbers being registered by multiple users|Sentinel|
 
 ### Detection Rules
 | Name | Description | Source |
