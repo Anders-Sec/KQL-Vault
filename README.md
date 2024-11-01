@@ -22,6 +22,7 @@ This repo is a collection of my most used KQL queries for both Threat Hunting as
 |[DC Usage](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/DC-Usage-Hunt.md)|Shows DC usage metrics|Defender|
 |[Emojis](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Emoji-Hunt.md)|Looks for Emojis in Emails and Command Lines|Defender|
 |[Duplicate MFA](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Duplicate-MFA-Hunt.md)|Looks for duplicate SMS numbers being registered by multiple users|Sentinel|
+|[Most Used Ransomware Tools](https://github.com/Anders-Sec/KQL-Vault/blob/main/Threat%20Hunts/Most-Used-Ransomware-Tools-Hunt.md)|Looks for common tools used in Ransomware campaigns|Defender|
 
 ### Detection Rules
 | Name | Description | Source |
